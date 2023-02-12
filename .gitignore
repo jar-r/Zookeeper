@@ -1,0 +1,49 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Zookeeper/*
+!/Zookeeper/task/
+/Zookeeper/task/*
+!/Zookeeper/task/src
+
+# Project exclude paths
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/String basics/Fix it/out/
+/Topics/String basics/Fix it/out/production/classes/
+/Topics/String basics/I'm learning Kotlin/out/
+/Topics/String basics/I'm learning Kotlin/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
+/Topics/Type conversion/Application/out/
+/Topics/Type conversion/Application/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
